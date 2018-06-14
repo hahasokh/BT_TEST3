@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="button1">連接裝置</string>
+    <string name="button3">連接列表</string>
+    <string name="switch1">藍芽開關</string>
+    <string name="text0">藍芽連線</string>
+    <string name="switchon">開</string>
+    <string name="switchoff">關</string>
+
+
+</resources>
